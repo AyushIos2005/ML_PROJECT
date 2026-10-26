@@ -1,0 +1,35 @@
+{
+  "impute": {
+    "Cholesterol": 245.51,
+    "RestingBP": 133.25
+  },
+  "feature_columns": [
+    "Age",
+    "RestingBP",
+    "Cholesterol",
+    "FastingBS",
+    "MaxHR",
+    "Oldpeak",
+    "MaxHR_Age_Ratio",
+    "BP_Cholesterol",
+    "Exercise_Stress",
+    "HeartRateReserve",
+    "Cholesterol_Age_Ratio",
+    "BP_Age_Ratio",
+    "Sex_M",
+    "ChestPainType_ATA",
+    "ChestPainType_NAP",
+    "ChestPainType_TA",
+    "RestingECG_Normal",
+    "RestingECG_ST",
+    "ExerciseAngina_Y",
+    "ST_Slope_Flat",
+    "ST_Slope_Up",
+    "AgeGroup_Adult",
+    "AgeGroup_Middle_Age",
+    "AgeGroup_Senior",
+    "Oldpeak_Level_Mild",
+    "Oldpeak_Level_Moderate",
+    "Oldpeak_Level_High"
+  ]
+}
